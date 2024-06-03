@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\testUnity23\\Astro(Beta)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\boss1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\boss1fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss1fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|e:\\unity\\testunity23\\astro(beta)\\assets\\bosscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\bosscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|e:\\unity\\testunity23\\astro(beta)\\assets\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\enemy_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.ugui\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\spikescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spikescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\uihealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uihealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\boss1scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss1scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\script\\tesmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C93AE-B496-0DF6-EE92-0E95097F4C20}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tesmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.2d.tilemap\\Editor\\GridPaintPaletteWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity\\testUnity23\\Astro(Beta)\\assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bossCamera.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\bossCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\bossCamera.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\bossCamera.cs",
+              "RelativeToolTip": "Assets\\bossCamera.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:49:12.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy_behaviour.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Enemy_behaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy_behaviour.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Enemy_behaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy_behaviour.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwGAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:29:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Song.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Song.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Song.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Song.cs",
+              "RelativeToolTip": "Assets\\Script\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:50:28.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOver.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\GameOver.cs",
+              "RelativeToolTip": "Assets\\GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:11:23.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PauseMenu.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\PauseMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:37:46.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyHP.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\EnemyHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyHP.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\EnemyHP.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyHP.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:01:34.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tesMovement.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\tesMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\tesMovement.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\tesMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\tesMovement.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:14:14.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boss1Fire.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Boss1Fire.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Boss1Fire.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Boss1Fire.cs",
+              "RelativeToolTip": "Assets\\Script\\Boss1Fire.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:06:22.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss1Controller.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Boss1Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Boss1Controller.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\Boss1Controller.cs",
+              "RelativeToolTip": "Assets\\Script\\Boss1Controller.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAiwHoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:16:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyController.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAkwEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:46:00.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraFollow.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:33:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpikeScript.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\SpikeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpikeScript.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\SpikeScript.cs",
+              "RelativeToolTip": "Assets\\Script\\SpikeScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:48:28.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "E:\\unity\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.ugui\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "..\\..\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.ugui\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "E:\\unity\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.ugui\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "..\\..\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.ugui\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAI4BAAAAAAAAAAAAAI0BAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:28:30.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UIHealthBar.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\UIHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIHealthBar.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\UIHealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\UIHealthBar.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:49:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:28:11.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:17:02.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GridPaintPaletteWindow.cs",
+              "DocumentMoniker": "E:\\unity\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.2d.tilemap\\Editor\\GridPaintPaletteWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.2d.tilemap\\Editor\\GridPaintPaletteWindow.cs",
+              "ToolTip": "E:\\unity\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.2d.tilemap\\Editor\\GridPaintPaletteWindow.cs",
+              "RelativeToolTip": "..\\..\\uy\\2020.2.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.2d.tilemap\\Editor\\GridPaintPaletteWindow.cs",
+              "ViewState": "AQIAAAEEAAAAAAAAAAAAwBwEAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:09:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletScript.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\BulletScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BulletScript.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\BulletScript.cs",
+              "RelativeToolTip": "Assets\\Script\\BulletScript.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:47:27.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAswDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:34:25.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "boss1Scene.cs",
+              "DocumentMoniker": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\boss1Scene.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\boss1Scene.cs",
+              "ToolTip": "E:\\unity\\testUnity23\\Astro(Beta)\\Assets\\Script\\boss1Scene.cs",
+              "RelativeToolTip": "Assets\\Script\\boss1Scene.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:30:12.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
